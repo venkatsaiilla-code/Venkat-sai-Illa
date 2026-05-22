@@ -1,4 +1,9 @@
-# 💫 About Me:
+**<h1 align="center">Hi 👋, I'm Venkat Sai</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | Microservices | AWS</h3>
+
+<p align="center">
+Passionate about building scalable backend systems, REST APIs, and cloud-based applications.
+</p>**# 
 🔭  working on Java Full Stack and Microservices applications  <br>👯 I’m looking to collaborate on Spring Boot, AWS, and REST API projects  <br>🤝 I’m looking for help with advanced system design and cloud deployment  <br>🌱 I’m currently learning AI integrations and LLM-based applications  <br>💬 Ask me about Java, Spring Boot, Microservices, REST APIs, SQL, and AWS  <br>⚡ I enjoy building scalable backend systems and solving real-world coding challenges
 
 
